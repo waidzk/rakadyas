@@ -56,6 +56,22 @@ const invitation_data = [
         name : "Ema - Ema Rempong"
     },
     {
+        id : "dede",
+        name : "Bang Dede Kurniawan"
+    },
+    {
+        id : "habil",
+        name : "Bang Habil"
+    },
+    {
+        id : "azkiyah",
+        name : "Azkiyah & Suami"
+    },
+    {
+        id : "menov",
+        name : "Menov"
+    },
+    {
         id : "rahma",
         name : "Rahma & Suami"
     },
