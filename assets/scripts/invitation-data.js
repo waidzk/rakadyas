@@ -28,6 +28,10 @@ const invitation_data = [
         name : "Dani (& Pasangan)"
     },
     {
+        id : "lina",
+        name : "Teh Lina"
+    },
+    {
         id : "84",
         name : "All'84"
     },
