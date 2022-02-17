@@ -28,6 +28,14 @@ const invitation_data = [
         name : "Dani (& Pasangan)"
     },
     {
+        id : "diana",
+        name : "Tante Diana"
+    },
+    {
+        id : "endang",
+        name : "Bapak Endang Sudrajat & Istri"
+    },
+    {
         id : "lina",
         name : "Teh Lina"
     },
@@ -58,6 +66,14 @@ const invitation_data = [
     {
         id : "emaema",
         name : "Ema - Ema Rempong"
+    },
+    {
+        id : "syaima",
+        name : "Syaima dan Suami"
+    },
+    {
+        id : "walimurid3a",
+        name : "Wali Murid Kelas 3A"
     },
     {
         id : "dede",
