@@ -68,7 +68,7 @@ const invitation_data = [
         name : "Ema - Ema Rempong"
     },
     {
-        id : "dina",
+        id : "dinamarwiah",
         name : "Dina Marwiah & Suami"
     },
     {
@@ -416,8 +416,8 @@ const invitation_data = [
         name: "Duwi"
     },
     {
-        id : "dina",
-        name: "Dina"
+        id : "dinamulyati",
+        name: "Dina Mulyati"
     },
     {
         id : "ahmad",
