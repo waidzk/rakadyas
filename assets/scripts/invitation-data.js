@@ -4,6 +4,34 @@ const invitation_data = [
         name : ""
     },
     {
+        id : "nunioc",
+        name : "Nuni Orange Cafe"
+    },
+    {
+        id : "riskaoc",
+        name : "Riska Orange Cafe"
+    },
+    {
+        id : "indraoc",
+        name : "Indra Orange Cafe"
+    },
+    {
+        id : "tomoc",
+        name : "Tom Orange Cafe"
+    },
+    {
+        id : "mamasella",
+        name : "Mama Sella Atu"
+    },
+    {
+        id : "nunungoc",
+        name : "Nunung Orange Cafe"
+    },
+    {
+        id : "yulioc",
+        name : "Yuli Orange Cafe"
+    },
+    {
         id : "delfiandi",
         name : "Om Delfiandi Chaniago"
     },
