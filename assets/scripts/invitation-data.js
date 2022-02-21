@@ -4,6 +4,10 @@ const invitation_data = [
         name : ""
     },
     {
+        id : "delfiandi",
+        name : "Om Delfiandi Chaniago"
+    },
+    {
         id : "edykurniawan",
         name : "Bpk. Edy Kurniawan & Istri"
     },
