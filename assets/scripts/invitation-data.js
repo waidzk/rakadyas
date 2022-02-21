@@ -8,6 +8,18 @@ const invitation_data = [
         name : "Mba Dina Adriana"
     },
     {
+        id : "gerryoc",
+        name : "Gerry Orange Cafe"
+    },
+    {
+        id : "mametoc",
+        name : "Mamet Orange Cafe"
+    },
+    {
+        id : "ojanoc",
+        name : "Ojan Orange Cafe"
+    },
+    {
         id : "nunioc",
         name : "Nuni Orange Cafe"
     },
