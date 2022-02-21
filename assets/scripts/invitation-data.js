@@ -4,6 +4,46 @@ const invitation_data = [
         name : ""
     },
     {
+        id : "edykurniawan",
+        name : "Bpk. Edy Kurniawan & Istri"
+    },
+    {
+        id : "dason",
+        name : "Bpk. Dason & Istri"
+    },
+    {
+        id : "heru",
+        name : "Mas Heru & Istri"
+    },
+    {
+        id : "radit",
+        name : "Mas Radit"
+    },
+    {
+        id : "azkahapid",
+        name : "Om Dodon & Istri"
+    },
+    {
+        id : "masucup",
+        name : "Mas Ucup & Istri (Duren Panjul 88)"
+    },
+    {
+        id : "mbadyah",
+        name : "Mba Dyah"
+    },
+    {
+        id : "akhmadirfan",
+        name : "Mas Akhmad Irfan & Istri"
+    },
+    {
+        id : "jaya",
+        name : "Bpk. Jaya & Istri"
+    },
+    {
+        id : "roza",
+        name : "Ibu Roza Fitri"
+    },
+    {
         id : "grafi",
         name : "Grapiii"
     },
