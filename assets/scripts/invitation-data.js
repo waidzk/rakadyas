@@ -44,6 +44,10 @@ const invitation_data = [
         name : "Ibu Roza Fitri"
     },
     {
+        id : "ramuji",
+        name : "Mas Ramuji & Istri"
+    },
+    {
         id : "grafi",
         name : "Grapiii"
     },
