@@ -4,6 +4,146 @@ const invitation_data = [
         name : ""
     },
     {
+        id : "lutfioc",
+        name : "Lutfi Orange Cafe"
+    },
+    {
+        id : "azarkasih",
+        name : "A Zarkasih Biller LA & Istri"
+    },
+    {
+        id : "acut",
+        name : "Acut Biller LA & Istri"
+    },
+    {
+        id : "adang",
+        name : "Adang Biller LA & Istri"
+    },
+    {
+        id : "akhmadibiller",
+        name : "Akhmadi Biller LA & Istri"
+    },
+    {
+        id : "alehcater",
+        name : "Aleh Cater & Istri"
+    },
+    {
+        id : "aman",
+        name : "Aman Biller LA & Istri"
+    },
+    {
+        id : "anca",
+        name : "Anca Biller LA & Istri"
+    },
+    {
+        id : "badru",
+        name : "Badru Biller LA & Istri"
+    },
+    {
+        id : "bpkamin",
+        name : "Bpk. Amin Biller LA & Istri"
+    },
+    {
+        id : "aeps",
+        name : "Bpk. H. Aep S. Biller LA & Istri"
+    },
+    {
+        id : "marjuki",
+        name : "Marjuki Biller LA & Istri"
+    },
+    {
+        id : "dedes",
+        name : "Dede S. Biller LA & Istri"
+    },
+    {
+        id : "dohiri",
+        name : "Dohiri Biller LA & Istri"
+    },
+    {
+        id : "jamaludinbiller",
+        name : "Jamaludin Biller LA & Istri"
+    },
+    {
+        id : "karnabiller",
+        name : "Karna Biller LA & Istri"
+    },
+    {
+        id : "karsana",
+        name : "Karsana Biller LA & Istri"
+    },
+    {
+        id : "maswi",
+        name : "Maswi Biller LA & Istri"
+    },
+    {
+        id : "nadibiller",
+        name : "Nadi Biller LA & Istri"
+    },
+    {
+        id : "nathabiller",
+        name : "Natha Biller LA"
+    },
+    {
+        id : "rijalbiller",
+        name : "Rijal Biller LA & Istri"
+    },
+    {
+        id : "riwad",
+        name : "Riwad Biller LA & Istri"
+    },
+    {
+        id : "rosidbiller",
+        name : "Rosid Biller LA & Istri"
+    },
+    {
+        id : "salimbiller",
+        name : "Salim Biller LA & Istri"
+    },
+    {
+        id : "udinbiller",
+        name : "Udin Biller LA & Istri"
+    },
+    {
+        id : "yantohoed",
+        name : "Yanto Hoed Biller LA & Istri"
+    },
+    {
+        id : "yusufbiller",
+        name : "Yusuf Biller LA & Istri"
+    },
+    {
+        id : "bpkendang",
+        name : "Bpk. Endang & Istri"
+    },
+    {
+        id : "soemantri",
+        name : "Soemantri & Istri"
+    },
+    {
+        id : "muhaemin",
+        name : "Muhaemin & Istri"
+    },
+    {
+        id : "hamdani",
+        name : "Hamdani & Istri"
+    },
+    {
+        id : "uben",
+        name : "Uben & Istri"
+    },
+    {
+        id : "bpkacep",
+        name : "Bpk. Acep & Istri"
+    },
+    {
+        id : "bpkwiwiet",
+        name : "Bpk. Wiwiet & Istri"
+    },
+    {
+        id : "omafi",
+        name : "Om Afi (jabriek) & Partner"
+    },
+    {
         id : "dinaadriana",
         name : "Mba Dina Adriana"
     },
